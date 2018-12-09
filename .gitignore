@@ -3,3 +3,7 @@
 *.gif
 *.zip
 *.h5
+__pycache__/
+
+## Jupyter Notebook
+.ipynb_checkpoints
